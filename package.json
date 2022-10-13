@@ -1,0 +1,23 @@
+{
+  "name": "nodequiz",
+  "version": "1.0.0",
+  "description": "Quiz api's for andriod app and web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "quiz",
+    "web",
+    "andriod"
+  ],
+  "author": "Balu G",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
+}
